@@ -16,3 +16,5 @@ Technologies Used
 1.HTML: The structure of the landing page is defined using HTML, incorporating elements like headers, sections, and the video element.
   
 2.CSS: Cascading Style Sheets (CSS) bring the design to life, providing visual enhancements, layout adjustments, and responsiveness.
+
+![LandingPage](https://github.com/user-attachments/assets/67e01d9d-c34f-4b20-8f43-1eae61e3916e)
